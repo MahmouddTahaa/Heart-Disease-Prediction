@@ -1,1 +1,6 @@
-models/
+models/evolution.pkl
+models/genetic.pkl
+models/knn.pkl
+models/mlp.pkl
+models/nn.h5
+models/rf.pkl
